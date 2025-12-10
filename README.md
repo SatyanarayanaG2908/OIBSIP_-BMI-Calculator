@@ -126,7 +126,7 @@ Export → Clear History → Manage Data
 ---
 ## 🎬 Demo
 
-- 👉 LinkedIn Demo Video: Add your demo post link here
+- 👉 LinkedIn Demo Video: www.linkedin.com/in/satyanarayanagattu
 
 ---
 
